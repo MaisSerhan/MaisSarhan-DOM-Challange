@@ -47,7 +47,7 @@ Each challenge is self-contained and can be tested individually in an HTML/JS en
 
 ## Author
 
-[Your Name]
+[Mais Sarhan]
 
 ---
 
